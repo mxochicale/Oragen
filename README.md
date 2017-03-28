@@ -1,10 +1,5 @@
-# Oragen
+# Orange
 Open source machine learning and data visualization for novice and expert
-
-
-
-
-
 
 
 # Starting Orange GUI
