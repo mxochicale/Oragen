@@ -18,6 +18,11 @@ http://stackoverflow.com/questions/38761998/how-to-run-orange3-after-installing
 
 
 
+# Introductory videos for Orange data mining suite.
+Getting Started with Orange
+https://www.youtube.com/playlist?list=PLmNPvQr9Tf-ZSDLwOzxpvY-HrE0yv-8Fy
+
+
 # INSTALLATION on Ubuntu 14.04 x64
 
 
